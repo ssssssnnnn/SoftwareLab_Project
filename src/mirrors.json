@@ -1,0 +1,13 @@
+[
+    {"name": "PyPI Global (Upstream)", "url": "https://pypi.org/simple", "type": "PyPI", "test_file": "/pip/"},
+    {"name": "PyPI Mirror (Cloudflare)", "url": "https://pypi.cloudflarecdn.com/simple", "type": "PyPI", "test_file": "/pip/"},
+    {"name": "PyPI Mirror (Jeiran IR)", "url": "https://mirror.jeiran.ir/pypi/simple", "type": "PyPI", "test_file": "/"},
+    {"name": "PyPI Mirror (SUT IR)", "url": "https://mirror.sharif.edu/pypi/simple", "type": "PyPI", "test_file": "/"},
+    {"name": "PyPI Mirror (ArvanCloud IR)", "url": "https://pypi.arvancloud.ir/simple", "type": "PyPI", "test_file": "/"},
+    {"name": "PyPI Mirror (CDN IR)", "url": "https://mirror.cdn.ir/repository/pypi/simple", "type": "PyPI", "test_file": "/"},
+    {"name": "NPM Global (Upstream)", "url": "https://registry.npmjs.org", "type": "NPM", "test_file": "/express"},
+    {"name": "NPM Mirror (Cloudflare)", "url": "https://registry.npmjs.cf", "type": "NPM", "test_file": "/express"},
+    {"name": "NPM Mirror (IranServer IR)", "url": "https://npm.iranserver.com", "type": "NPM", "test_file": "/"},
+    {"name": "NPM Mirror (ArvanCloud IR)", "url": "https://npm.arvancloud.ir", "type": "NPM", "test_file": "/"},
+    {"name": "NPM Mirror (Jeiran IR)", "url": "https://mirror.jeiran.ir/npm", "type": "NPM", "test_file": "/"}
+]
