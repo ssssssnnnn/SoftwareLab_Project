@@ -1,3 +1,10 @@
+<div align="left">
+
+🇺🇸 English | [🇮🇷 فارسی](README.md)
+
+</div>
+
+
 # Software Mirror Monitoring & Benchmarking System (Mirror Monitor)
 
 Mirror Monitor is a background daemon and real-time web dashboard designed to test, monitor, and benchmark package repository mirrors. Its primary goal is to automatically evaluate mirror infrastructure, measure network latency, and estimate effective bandwidth in order to optimize package downloads and improve development workflows in DevOps and software engineering environments.
