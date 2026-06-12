@@ -28,7 +28,7 @@
 ├── eslint.config.js       # پیکربندی ESLint سراسری بدون نیاز به package.json
 ├── Makefile               # مدیریت اتوماسیون وظایف پروژه
 ├── requirements.txt       # وابستگی‌های پایتون
-└── pyproject.toml         # تنظیمات مربطو به Ruff
+└── pyproject.toml         # تنظیمات مربوط به Ruff
 ```
 
 ## راهنمای نصب و راه‌اندازی گام‌به‌گام
